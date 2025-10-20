@@ -10,7 +10,7 @@
 - Finding shortest and longest songs
 - Visualizing duration trends by year
 
-# Tools Used
+# Tools Used.
 
 - Python
 - pandas
