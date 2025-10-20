@@ -1,4 +1,4 @@
-#Music Data Cleaning 🎵
+## Music Data Cleaning 🎵
 
 - This notebook focuses on learning data cleaning and analysis using a dataset of top songs from 1923–2023.
 - I practiced loading data manually with pandas, cleaning the “duration” column, and visualizing song duration trends over time using matplotlib.
